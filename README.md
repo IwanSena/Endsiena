@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" width="120" alt="EndSiena Logo">  
+<img src="img/EndSiena Browser.png" width="120" alt="EndSiena Logo">  
 <!-- Ganti logo setelah upload -->
 
 # 🌀 **EndSiena Browser**
@@ -44,6 +44,7 @@ a dream to revive what once was.
 </div>
 
 ---
+
 
 # 📘 **1. Executive Technical Overview**
 
