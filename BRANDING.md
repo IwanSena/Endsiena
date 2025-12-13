@@ -13,7 +13,7 @@ Every element within the logo is intentionally designed to reflect a browser tha
 <div align="center">
 
 <img src="img/Endsiena-Browser-logo.png" width="220" alt="EndSiena Logo Main">
-<img src="img/Endsiena-Browser-logo1" width="220" alt="EndSiena Alternative Logo">
+<img src="img/Endsiena-Browser-logo1.png" width="220" alt="EndSiena Alternative Logo">
 <img src="img/Endsiena-Browser-logo3D.png" width="220" alt="EndSiena Symbol Logo">
 
 <br>
