@@ -206,7 +206,7 @@ GitHub Sync, optimizations, public release preparations.
 
 ---
 
-# 📜 **7. Licensing & Branding**
+# 📜 **7. Licensing & Branding, Visual Identity**
 
 ### **Licenses**
 - Mozilla Public License 2.0 (MPL-2.0)  
@@ -223,6 +223,17 @@ are trademarked as part of the EndSiena identity.
 Commercial use requires written approval.
 
 ---
+## **Visual Identity**
+
+EndSiena's visual identity is inspired by strength, resilience, and global connectivity.
+
+- Komodo Dragon — absolute strength and protection
+- Globe — borderless digital world
+- Blue Fire — rare, clean, intelligent energy
+
+Read the full brand philosophy:
+[BRANDING.md](./BRANDING.md)
+
 
 # 🌐 **8. Official Channels**
 
